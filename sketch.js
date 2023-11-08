@@ -3,7 +3,7 @@ let ball;
 let gravity = 0;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(windowWidth, windowHeight);
   
   plank = createSprite(width / 2, height - 20, 200, 20);
   plank.immovable = true;
@@ -21,7 +21,8 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  noStroke()
+  background(209,29,83);
   
   ball.velocity.y += gravity+0.1;
  
