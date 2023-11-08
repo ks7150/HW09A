@@ -1,1 +1,1 @@
-I tried to recreate an old game in which the ball bounces off of a plank which moves with the mouse position. I did figure out the bounciness and the way to reload the page once the ball falls off the ground. 
+I tried to recreate an old game in which the ball bounces off of a plank which moves with the mouse position. It took me a while to   figure out the bounciness and the way to reload the page once the ball falls off the ground and to make the plank not fall off screen on coliding with the ball. 
