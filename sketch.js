@@ -7,7 +7,7 @@ function setup() {
   
   plank = createSprite(width / 2, height - 20, 200, 20);
   plank.immovable = true;
-  
+  plank.collider = 'static'
   ball = createSprite(width / 2, height / 2, 30, 30);
  
   ball.velocity.x = 2;
@@ -17,7 +17,7 @@ function setup() {
   };
 
   
-  ball.bounciness= 2
+  ball.bounciness= 1
 }
 
 function draw() {

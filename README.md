@@ -1,1 +1,1 @@
-I tried to recreate an old game in which the ball bounces off of a plank which moves with the mouse position. I did figure out the bounciness and the way to reload the page once the ball falls off the ground. But the only thing im struggling with is the plank position and the way it fall off the screen. I want the plank to be stable.
+I tried to recreate an old game in which the ball bounces off of a plank which moves with the mouse position. I did figure out the bounciness and the way to reload the page once the ball falls off the ground. 
